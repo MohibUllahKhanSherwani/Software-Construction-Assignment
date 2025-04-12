@@ -43,17 +43,19 @@ A Flutter project for managing school fees, including features for authenticatio
 ### Screenshots
 Here are some key screenshots of the application:
 
-1. **Login Screen**  
+1. **Login Screen**
+   <br>
    ![image](https://github.com/user-attachments/assets/f4208f21-eb9d-4ae5-b542-7c7e83c9f97e)
+   <br>
 
 
-2. **Admin Dashboard**  
+3. **Admin Dashboard**  
    ![Admin Dashboard](screenshots/admin_dashboard.png)
 
-3. **Parent Dashboard**  
+4. **Parent Dashboard**  
    ![Parent Dashboard](screenshots/parent_dashboard.png)
 
-4. **Payment Page**  
+5. **Payment Page**  
    ![Payment Page](screenshots/payment_page.png)
 
 To add your screenshots:
