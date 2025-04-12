@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510046958869",
+    "project_id": "school-fee-feefc",
+    "storage_bucket": "school-fee-feefc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510046958869:android:e7560435dd8f759e97e51c",
+        "android_client_info": {
+          "package_name": "com.example.scd_assignment_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPMmsiNy3IlcovcetL1FGginjDIQhmAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

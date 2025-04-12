@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="scd_assignment_1">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>scd_assignment_1</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+
+  <!-- ✅ Firebase Core SDK -->
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-storage.js"></script>
+
+  <!-- ✅ Your Firebase Config -->
+  <script>
+    const firebaseConfig = {
+  apiKey: "AIzaSyDh0OnaAY-XOiIUYzgcD-T_Qpx7qh-E3DA",
+  authDomain: "fee-system-89f50.firebaseapp.com",
+  databaseURL: "https://fee-system-89f50-default-rtdb.firebaseio.com",
+  projectId: "fee-system-89f50",
+  storageBucket: "fee-system-89f50.firebasestorage.app",
+  messagingSenderId: "708781370742",
+  appId: "1:708781370742:web:9acc888249bcbcb0d1de57"
+};
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
+
+  <!-- Bootstrap your Flutter app -->
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
