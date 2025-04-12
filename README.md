@@ -42,4 +42,11 @@ Here are some key screenshots of the application:
    ![image](https://github.com/user-attachments/assets/d052df9b-31f2-4a81-a5dd-edf08af6785b)
 
 7. **Payment Page**  
-   ![image](https://github.com/user-attachments/assets/5c79ca86-3879-4a46-962e-39fb7f4e752f)
+  ![image](https://github.com/user-attachments/assets/081efe80-ae39-429c-b6ff-c730ab6e4036)
+8. **Firebase Auth**
+   ![image](https://github.com/user-attachments/assets/dd179a90-7e0c-4afd-b436-8f644e05c073)
+9. **Firestore database for handling payments**
+    ![image](https://github.com/user-attachments/assets/e7e61d5b-e7ac-4721-8be1-a87510fcc6fe)
+
+
+
