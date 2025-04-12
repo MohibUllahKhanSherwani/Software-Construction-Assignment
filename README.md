@@ -41,7 +41,25 @@ A Flutter project for managing school fees, including features for authenticatio
    ```
 
 ### Screenshots
-*Screenshots will be added here later.*
+Here are some key screenshots of the application:
+
+1. **Login Screen**  
+   ![Login Screen](screenshots/login.png)
+   ![alt text](image.png)
+
+2. **Admin Dashboard**  
+   ![Admin Dashboard](screenshots/admin_dashboard.png)
+
+3. **Parent Dashboard**  
+   ![Parent Dashboard](screenshots/parent_dashboard.png)
+
+4. **Payment Page**  
+   ![Payment Page](screenshots/payment_page.png)
+
+To add your screenshots:
+1. Create a `screenshots` directory in your project root
+2. Save your screenshots as PNG files with the names shown above
+3. Update the paths in this README if you use different filenames
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
