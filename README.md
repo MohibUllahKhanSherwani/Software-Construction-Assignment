@@ -1,5 +1,5 @@
 # scd_assignment_1
-
+This is done as part of an assignment of Software Construction and Development
 A Flutter project for managing school fees, including features for authentication, dashboard views for parents and administrators, and payment processing.
 
 ## Features
