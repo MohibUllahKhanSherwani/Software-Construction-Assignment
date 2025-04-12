@@ -16,36 +16,17 @@ A Flutter project for managing school fees, including features for authenticatio
 - Dart SDK
 - Firebase account for backend services
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/scd_assignment_1.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd scd_assignment_1
-   ```
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-
 ### Configuration
 - Set up Firebase by adding your `google-services.json` for Android and `GoogleService-Info.plist` for iOS.
 - Update the `pubspec.yaml` file with your Firebase project details.
-
-### Running the App
-- To run the app on an emulator or physical device:
-   ```bash
-   flutter run
-   ```
 
 ### Screenshots
 Here are some key screenshots of the application:
 
 1. **Login Screen**
    <br>
-   ![image](https://github.com/user-attachments/assets/f4208f21-eb9d-4ae5-b542-7c7e83c9f97e)
+   ![image](https://github.com/user-attachments/assets/5dc97ae7-5f9e-4ee3-90df-e65194d4c0a5)
+
    <br>
 
 
