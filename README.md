@@ -28,21 +28,18 @@ Here are some key screenshots of the application:
    ![image](https://github.com/user-attachments/assets/5dc97ae7-5f9e-4ee3-90df-e65194d4c0a5)
 
    <br>
+2. **Registration Screen**
+   ![image](https://github.com/user-attachments/assets/bb0d325d-5318-4f4a-b2b8-40fa6e75209c)
 
 
-3. **Admin Dashboard**  
-   ![Admin Dashboard](screenshots/admin_dashboard.png)
+3. **Admin Dashboard - Real time status tracking**  
+   <img width="960" alt="image" src="https://github.com/user-attachments/assets/166dbf8d-297c-454e-b188-f43305d8f165" />
+   ![image](https://github.com/user-attachments/assets/1d883aa2-01e9-47c3-8ccb-8bd15e371bdb)
+4. **Fee Management Section**
+   ![image](https://github.com/user-attachments/assets/7116bbdd-ac6f-4dda-8acd-a87d2c59d865)
 
-4. **Parent Dashboard**  
-   ![Parent Dashboard](screenshots/parent_dashboard.png)
+6. **Parent Dashboard**  
+   ![image](https://github.com/user-attachments/assets/d052df9b-31f2-4a81-a5dd-edf08af6785b)
 
-5. **Payment Page**  
-   ![Payment Page](screenshots/payment_page.png)
-
-To add your screenshots:
-1. Create a `screenshots` directory in your project root
-2. Save your screenshots as PNG files with the names shown above
-3. Update the paths in this README if you use different filenames
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+7. **Payment Page**  
+   ![image](https://github.com/user-attachments/assets/5c79ca86-3879-4a46-962e-39fb7f4e752f)
