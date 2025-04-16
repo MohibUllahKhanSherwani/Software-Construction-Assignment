@@ -35,10 +35,10 @@ Here are some key screenshots of the application:
 4. **Fee Management Section**
    ![image](https://github.com/user-attachments/assets/7116bbdd-ac6f-4dda-8acd-a87d2c59d865)
 
-6. **Parent Dashboard**  
+6. **Parent Dashboard-Unpaid payment**  
    ![image](https://github.com/user-attachments/assets/d052df9b-31f2-4a81-a5dd-edf08af6785b)
 
-7. **Payment Page**  
+7. **Parent Dashboard-Paid payment**  
   ![image](https://github.com/user-attachments/assets/081efe80-ae39-429c-b6ff-c730ab6e4036)
 8. **Firebase Auth**
    ![image](https://github.com/user-attachments/assets/dd179a90-7e0c-4afd-b436-8f644e05c073)
