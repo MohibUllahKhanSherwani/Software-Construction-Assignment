@@ -16,10 +16,6 @@ A Flutter project for managing school fees, including features for authenticatio
 - Dart SDK
 - Firebase account for backend services
 
-### Configuration
-- Set up Firebase by adding your `google-services.json` for Android and `GoogleService-Info.plist` for iOS.
-- Update the `pubspec.yaml` file with your Firebase project details.
-
 ### Screenshots
 Here are some key screenshots of the application:
 
