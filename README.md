@@ -1,4 +1,5 @@
-# scd_assignment_1
+# scd_assignment_1_and_2
+# Part 1
 This is done as part of an assignment of Software Construction and Development
 A Flutter project for managing school fees, including features for authentication, dashboard views for parents and administrators, and payment processing.
 
@@ -43,6 +44,14 @@ Here are some key screenshots of the application:
    ![image](https://github.com/user-attachments/assets/dd179a90-7e0c-4afd-b436-8f644e05c073)
 9. **Firestore database for handling payments**
     ![image](https://github.com/user-attachments/assets/e7e61d5b-e7ac-4721-8be1-a87510fcc6fe)
+# Part 2:
+10. **Handling Concurrent Payments using Async Functions in Flutter** 
+![image](https://github.com/user-attachments/assets/1f3c58de-55a9-4853-b52b-7d32bdeb623f)
+11. **Payments Document: Note the timestamp (all same due to the use of Async function)**
+![image](https://github.com/user-attachments/assets/8387ec4f-9ad6-4cae-afc4-c8e432c97cf2)
+
+
+
 
 
 
